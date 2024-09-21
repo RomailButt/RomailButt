@@ -2,7 +2,7 @@
 👋 Hi, I'm Romail Butt!<br><br>I'm a Full Stack Developer and Software Engineer with expertise in a wide array of technologies, including MERN stack, Next.js, PHP, SQL, MongoDB, and more. I love crafting efficient, scalable, and user-centric web applications using modern frameworks and tools.<br><br>💻 What I Do:<br>1. Build dynamic, responsive web apps using Next.js, JavaScript, jQuery, Bootstrap, and Tailwind CSS<br>2. Develop and maintain robust backends with Node.js, Express.js, PHP, and SQL<br>3. Work with both SQL and NoSQL databases like MongoDB<br>4. Create seamless user interfaces with a focus on UI/UX<br><br>🌐 My Tech Stack:<br>Languages: JavaScript (ES6+), TypeScript, PHP, SQL<br>Frameworks: React.js, Next.js, Express.js, Bootstrap, Tailwind CSS<br>Databases: MongoDB, MySQL, SQL Server<br>Tools: Git, Webpack, jQuery, REST APIs<br><br>🔧 Always Learning: I’m constantly enhancing my skill set by diving into new technologies and frameworks. Currently, I'm exploring the power of TypeScript and honing my expertise in server-side development.
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/facebook.com/romail.butt.666) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/instagram.com/romailbutt7374) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/romail-butt-294588290) 
 
 # 💻 Tech Stack:
