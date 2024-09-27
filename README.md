@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Romail Butt!<br><br>I'm a Full Stack Developer and Software Engineer with expertise in a wide array of technologies, including MERN stack, Next.js, PHP, SQL, MongoDB, and more. I love crafting efficient, scalable, and user-centric web applications using modern frameworks and tools.<br><br>🌐 My Tech Stack:<br>Languages: JavaScript (ES6+), TypeScript, PHP, SQL<br>Frameworks: React.js, Next.js, Express.js, Bootstrap, Tailwind CSS<br>Databases: MongoDB, MySQL, SQL Server<br>Tools: Git, Webpack, jQuery, REST APIs<br><br>🔧 Always Learning: I’m constantly enhancing my skill set by diving into new technologies and frameworks. Currently, I'm exploring the power of TypeScript and honing my expertise in server-side development.
+👋 Hi, I'm Romail Butt!<br><br>I'm a Full Stack Developer and Software Engineer.
 
 
 # 🌐 Socials:
