@@ -5,17 +5,11 @@ I'm a **Full Stack Software Engineer** with **3+ years of experience** building 
 ### 🚀 Tech Stack
 
 **Frontend:** Next.js, Nuxt.js, React.js, TypeScript, JavaScript (ES6+), Tailwind CSS, Bootstrap, jQuery
-
 **Backend:** Nest.js, Node.js, Express.js, Core PHP, REST APIs, Microservices
-
 **Databases:** MySQL, MongoDB
-
 **Cloud & DevOps:** AWS, Docker, GitHub Actions, CI/CD, Vercel, Netlify, Render
-
 **Testing & Quality:** Jest, Cypress, k6, Postman
-
 **AI & Automation:** Python, OpenCV, TensorFlow, PyTorch, NumPy, Pandas, n8n, GitHub Copilot, Cursor AI, Zapier
-
 **Tools & Practices:** Git, GitHub, Agile, Scrum, Figma, System Design, ERD Design, Multi-Tenant Architecture
 
 ### 🌱 Currently Exploring
