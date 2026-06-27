@@ -1,4 +1,32 @@
-👋 Hi, I'm Romail Butt!<br><br>I'm a Full Stack Developer and Software Engineer.<br><br>🌐 My Tech Stack:<br>Languages: JavaScript (ES6+), TypeScript, PHP, SQL<br>Frameworks: React.js, Next.js, Express.js, Bootstrap, Tailwind CSS<br>Databases: MongoDB, MySQL, SQL Server<br>Tools: Git, Webpack, jQuery, REST APIs<br>Design Software: Figma, Adobe Photoshop, Adobe Illustrator, Canva, Adobe Premiere Pro<br>Data Science Libraries: NumPy, Pandas, PyTorch, SciPy, TensorFlow<br>Deployment: Docker, Vercel, Netlify, Render<br><br>🔧 Always Learning: I’m constantly enhancing my skill set by diving into new technologies and frameworks. Currently, I'm exploring the power of TypeScript and honing my expertise in server-side development.
+👋 Hi, I'm **Romail Butt**
+
+I'm a **Full Stack Software Engineer** with **3+ years of experience** building scalable, high-performance web applications and multi-tenant SaaS platforms. I specialize in designing clean architectures, developing secure REST APIs, optimizing application performance, and delivering production-ready solutions from concept to deployment.
+
+### 🚀 Tech Stack
+
+**Frontend:** Next.js, Nuxt.js, React.js, TypeScript, JavaScript (ES6+), Tailwind CSS, Bootstrap, jQuery
+
+**Backend:** Nest.js, Node.js, Express.js, Core PHP, REST APIs, Microservices
+
+**Databases:** MySQL, MongoDB
+
+**Cloud & DevOps:** AWS, Docker, GitHub Actions, CI/CD, Vercel, Netlify, Render
+
+**Testing & Quality:** Jest, Cypress, k6, Postman
+
+**AI & Automation:** Python, OpenCV, TensorFlow, PyTorch, NumPy, Pandas, n8n, GitHub Copilot, Cursor AI, Zapier
+
+**Tools & Practices:** Git, GitHub, Agile, Scrum, Figma, System Design, ERD Design, Multi-Tenant Architecture
+
+### 🌱 Currently Exploring
+
+* Advanced System Design & Scalable Architectures
+* Cloud-Native Applications on AWS
+* AI-powered Developer Workflows & Automation
+* Performance Optimization & High-Availability Systems
+
+I enjoy building reliable software, solving complex engineering problems, and continuously learning modern technologies that improve developer productivity and create better user experiences.
+
 
 
 # 🌐 Socials:
